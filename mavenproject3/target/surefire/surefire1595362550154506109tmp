@@ -1,0 +1,6 @@
+#surefire
+#Tue Oct 08 19:36:30 PYST 2013
+user.dir=D\:\\Cynthia\\Mis Documentos\\mavenproject3
+localRepository=D\:\\Cynthia\\.m2\\repository
+basedir=D\:\\Cynthia\\Mis Documentos\\mavenproject3
+test=Facade.ClienteFacadeTest
